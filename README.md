@@ -1,8 +1,8 @@
-# Welcome to "CAR WARRIOR CLIENT REPOSITORY"
+# Welcome to "CAR SELLING POINT CLIENT REPOSITORY"
 
-## Car Warrior [Live Site Link](https://bike-warrior-sumon6638.web.app/)
+## Car Warrior [Live Site Link](https://car-warrior-ayon.netlify.app/)
 
-## [Client Side Repository Link](https://github.com/sumon6638-sm/car-warrior)
+## [Client Side Repository Link](https://github.com/SarafatUllah/car-selling-point)
 
 ## [Server Side Repository Link](https://github.com/sumon6638-sm/car-warrior-server)
 
